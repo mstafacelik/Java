@@ -17,6 +17,8 @@ public class C01_Variables {
 		sayi = 10;
 
 		System.out.println(sayi); // 10
+		
+		System.out.println("Github deneme");
 
 		// biz daha once olusturulmus ve deger atamasi yapilmis bir degiskene
 		// yeni deger atayabiliriz
